@@ -5,8 +5,8 @@ generate_post_data() {
 {
   "content": "Amigos <@&782082777528008724>, atenção:",
   "embeds": [{
-    "title": "Alô alô leia com atenção <:jujutsu_feira_5:784510037879816264>",
-    "description": "Amigos! Hoje é dia de Jujutsu Kaisen! Vamos nos reunir para assistir no canal de voz da category *JUJUTSU-FEIRA* *à partir das **21h**!* :smirk_cat: \n**ATENÇÃO!** \nPessoal dorme cedo, se não aparecer até 23h, vamos começar sem você :grimacing:",
+    "title": "Alô alô leia com atenção!",
+    "description": "Este aqui é um teste de mensagem webhook *à partir das **21h**!* :smirk_cat: \n**ATENÇÃO!** :grimacing:",
     "color": "05555"
   }]
 }
